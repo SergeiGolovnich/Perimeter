@@ -3,5 +3,5 @@ The prototype of the software part of the analysis system of the ophthalmic peri
 # Build Notes
 You can build a project with Visual Studio 2019
 # Usage Notes
-Default admin password: 123
-The debug version of the program disables communication with the hardware
+Default admin password: 123.
+The debug version of the program disables communication with the hardware.
